@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "examples/idf_blink"
+		},
+		{
+			"path": "examples/idf_with_a_blink"
+		},
+		{
+			"path": "examples/s3_wb2812_blink"
+		},
+		{
+			"path": "examples/wifi_dd_blink"
+		},
+		{
+			"path": "examples/le_dd_blink"
+		}
+	],
+	"settings": {}
+}

@@ -23,7 +23,7 @@ void switchColor() {
       break;
   }
   led->onColor(color);
-  led->offColor("gray");
+  led->offColor("yellow");
   dumbdisplay.log(String("!!! switched color to ") + String(color));
 }
 void initializeDD() {

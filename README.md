@@ -41,8 +41,7 @@ The examples that we will try out are:
 
 # Highlights
 
-
-Again, using Arduino component in ESP-IDF is only supported with the corresponding ESP-IDF version. Here are the necessary changes:
+The steps I worked out to add Android support to ESP-IDF is based on the above mentioned [Arduino as an ESP-IDF component](https://github.com/espressif/arduino-esp32/blob/master/docs/en/esp-idf_component.rst): 
 
 * Add IDF component to `idf_component.yml`:
   ```

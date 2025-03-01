@@ -64,3 +64,4 @@ void loop() {
 }
 ...
 ```
+Note: ***LED pin is hardcode to 2 with `LED_BUILTIN`***

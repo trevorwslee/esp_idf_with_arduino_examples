@@ -1,5 +1,5 @@
 
-***`CONFIG_BLINK_GPIO` is pre-set to `2`***
+# !!! ***`CONFIG_BLINK_GPIO` is pre-set to `2`*** !!!
 
 -------------------------------------------------
 

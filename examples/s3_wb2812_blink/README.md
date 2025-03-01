@@ -1,5 +1,5 @@
 
-## s3_wb2812_blink
+# `s3_wb2812_blink`
 
 * with IDF v5.3.2
 * new project

@@ -1,5 +1,5 @@
 
-## idf_with_a_blink
+# `idf_with_a_blink`
 
 * with IDF v5.3.2
 * new project

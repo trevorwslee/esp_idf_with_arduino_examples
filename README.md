@@ -1,8 +1,10 @@
 ---
-title: 'ESP-IDF with Arduino Examples'
+title: ESP-IDF with Arduino Examples
 tags: 'espidf, arduino, esp32, esp32s3'
 cover_image: /images/esp-idf-arduino.png
 published: true
+id: 2306492
+date: '2025-03-02T12:29:11Z'
 ---
 
 
